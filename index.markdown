@@ -23,7 +23,7 @@ The schedule below will be updated to keep track of all released course material
 
 | Week | Date | Topic | Reading | Materials |
 | :-: | :- | :- | -: | :- |
-| 0 | FRI 1/24 | Course Overview | NA | [Beginning-of-Semester Survey]() |
+| 0 | FRI 1/24 | Course Overview | NA | [Beginning-of-Semester Survey](https://docs.google.com/forms/d/e/1FAIpQLScDKtLwncty4q2UVQHeikCHnr1FIOFyebtu2vbyejMzGehg_Q/viewform?usp=sharing) |
 | 1 | MON 1/27 | Mathematical Foundations | Skiena 2.1, 2.6--2.8, [Proof-Writing Guide]({{site.url}}/notes/ProofGuide.pdf)  |  |
 | - | WED 1/29 | Big-O(h) Analysis  | Skiena 2.2--2.4 | 2--11 |
 | - | FRI 1/31 | Big-O(h) Analysis  | -  |  |
