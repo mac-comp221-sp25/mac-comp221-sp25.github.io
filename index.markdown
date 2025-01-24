@@ -8,7 +8,7 @@ category: Syllabus
 layout: post
 ---
 
-Welcome to the COMP221 (Algorithm Design & Analysis) Course Page. For course policies, please check the [syllabus](https://docs.google.com/document/d/1JmHjZyhxpJ14jmWKvz0pmMYYLHjADHfDV1QcbTnYOQY/edit?usp=sharing). 
+Welcome to the COMP221 (Algorithm Design & Analysis) Course Page. For course policies, please check the [syllabus](https://docs.google.com/document/d/1P9VY0hKVDXovrCSrKR945ABx7OEdYHeL6emMn3wPva0/edit?usp=sharing). 
 
 
 ### Resources
