@@ -45,5 +45,5 @@ Solutions for written assignments should be submitted through Moodle. Solutions 
 **OUT:** 1/24
 **DUE:** 2/3
 
-[instructions]({{site.url}}/HWs/COMP221_HW0.pdf)
+[instructions]({{site.url}}/hws/COMP221_HW0.pdf)
 
