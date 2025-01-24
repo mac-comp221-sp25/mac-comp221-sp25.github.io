@@ -24,7 +24,7 @@ The schedule below will be updated to keep track of all released course material
 | Week | Date | Topic | Reading | Materials |
 | :-: | :- | :- | -: | :- |
 | 0 | FRI 1/24 | Course Overview | NA | [Beginning-of-Semester Survey]() |
-| 1 | MON 1/27 | Mathematical Foundations | Skiena 2.1, 2.6--2.8  |  |
+| 1 | MON 1/27 | Mathematical Foundations | Skiena 2.1, 2.6--2.8, [Proof-Writing Guide]({{site.url}}/notes/ProofGuide.pdf)  |  |
 | - | WED 1/29 | Big-O(h) Analysis  | Skiena 2.2--2.4 | 2--11 |
 | - | FRI 1/31 | Big-O(h) Analysis  | -  |  |
 | 2 | MON 2/03 | Proofs of Correctness (Loop Invariants) | Skiena 1.3--1.4, 1.6. Skim 2.5  |[Tao on rigor](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)  |
@@ -36,6 +36,7 @@ The schedule below will be updated to keep track of all released course material
 | 4 | MON 2/17 | Sorting: QuickSort | Skiena 4.6 |  |
 | - | WED 2/19 | Exam Review | |  |
 | - | FRI 2/21 | **Exam 1** |  | |
+
 </div> 
 
 ### Homeworks
