@@ -12,9 +12,13 @@ You will work towards being able to...
 2. Compute growth functions from time & space complexities under the RAM model 
 3. Know common algorithms to solve cannonical problems (sorting)
 
-## Instructions
+### Warm-Up
 
-1. Look at the set of numbered index cards in front of you. They should start in the order [4 -12 6 3 1]. Have a volunteer at your table slowly and methodically demonstrate how they'd rearrange the cards so that they are in increasing order. If you're the volunteer, do this in a way that seems natural to you (and perhaps not in an unintuitive way that might be slightly more efficient for a computer!). 
+1. (Skiena 2.39) Suppose you have an unsorted array of $n$ integers, each between $1$ and $n+1$. Naturally, there is a single integer between $1$ and $n+1$ missing. Find an algorithm that runs in $O(n)$ time and *constant space* complexity. **HINT**: Note that the textbook lists this problem under the *Summation* subheading.  
+
+### Activity Instructions
+
+1. Look at the set of numbered index cards in front of you. They should start in the order [4 -12 6 3 1]. Have a volunteer at your table slowly and methodically demonstrate how they'd rearrange the cards so that they are in increasing order using a sequence of comparisons between the values on cards and swaps. If you're the volunteer, do this in a way that seems natural to you (and perhaps not in an unintuitive way that might be slightly more efficient for a computer!). 
 
 2. *Formalize* the mechanics of your table's chosen sorting technique. Describe it as a combination of a few *basic* operations: comparisons, and swapping the positions of two numbers. Write out pseudocode to describe your sorting operation. 
 
