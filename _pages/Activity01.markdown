@@ -14,7 +14,7 @@ You will work towards being able to...
 
 ### Warm-Up
 
-1. (Skiena 2.39) Suppose you have an unsorted array of $n$ integers, each between $1$ and $n+1$. Naturally, there is a single integer between $1$ and $n+1$ missing. Find an algorithm that runs in $O(n)$ time and *constant space* complexity. **HINT**: Note that the textbook lists this problem under the *Summation* subheading.  
+1. (Skiena 2.39) Suppose you have an unsorted array of $n$ unique integers, each between $1$ and $n+1$. Naturally, there is a single integer between $1$ and $n+1$ missing. Find an algorithm that runs in $O(n)$ time and *constant space* complexity that finds that missing number. **HINT**: Note that the textbook lists this problem under the *Summation* subheading.  
 
 ### Activity Instructions
 
