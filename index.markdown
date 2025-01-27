@@ -40,10 +40,11 @@ The schedule below will be updated to keep track of all released course material
 </div> 
 
 ### Homeworks
-Solutions for written assignments should be submitted through Moodle. Solutions for programming assignments 
+Solutions for written assignments should be submitted through Moodle. Solutions for programming assignments should be submitted through the Github Classroom, which can be joined through Moodle. 
+
 #### Homework 0
 **OUT:** 1/24
-**DUE:** 2/3
+**DUE:** 2/3 9pm. 
 
-[instructions]({{site.url}}/hws/COMP221_HW0.pdf)
+[instructions]({{site.url}}/hws/COMP221_HW0.pdf) | [TeX]({{site.url}}/hws/COMP221_HW0.tex)
 
