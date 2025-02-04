@@ -48,3 +48,8 @@ Solutions for written assignments should be submitted through Moodle. Solutions 
 
 [instructions]({{site.url}}/hws/COMP221_HW0.pdf) | [TeX]({{site.url}}/hws/COMP221_HW0.tex)
 
+#### Homework 1
+**Out:** 2/4
+**Due:** 2/10 9pm.
+
+[instructions]({{site.url}}/hws/COMP221_HW1.pdf) | [TeX]({{site.url}}/hws/COMP221_HW1.tex)
