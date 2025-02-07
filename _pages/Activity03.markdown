@@ -30,13 +30,13 @@ This may look similar to the sorting algorithm that you saw
 
 2. Work with your group to prove the correctness of this algorithm. Try and apply the following process: 
 
-    a. Work through the algorithm on an example to convince yourself that it's correct, 
-    b. Identify a loop invariant you can use to prove it's correctness, 
-    c. Prove that your pseudocode starts with the invariant being true (the base case of recursion)
-    d. Begin proving that your pseudocode maintains the loop invariant after every iteration (the inductive step)
-    e. Much like with InsertionSort, BubbleSort has a nested for-loop structure, so to prove the inductive step, you will likely need to prove something about the behavior of the inner loop. Make a claim about what the inner loop does, and prove that via loop invariant! 
-    f. Use the proof in (e) to finish your inductive step, and thus your proof by induction for your loop invariant for the outer loop.
-    g. Conclude by showing that your loop invariant demonstrates the correctness of BubbleSort. 
+    1. Work through the algorithm on an example to convince yourself that it's correct, 
+    2. Identify a loop invariant you can use to prove it's correctness, 
+    3. Prove that your pseudocode starts with the invariant being true (the base case of recursion)
+    4. Begin proving that your pseudocode maintains the loop invariant after every iteration (the inductive step)
+    5. Much like with InsertionSort, BubbleSort has a nested for-loop structure, so to prove the inductive step, you will likely need to prove something about the behavior of the inner loop. Make a claim about what the inner loop does, and prove that via loop invariant! 
+    6. Use the proof in (e) to finish your inductive step, and thus your proof by induction for your loop invariant for the outer loop.
+    7. Conclude by showing that your loop invariant demonstrates the correctness of BubbleSort. 
 
 3. If you have additional time (or on your own to review the material!), consider the following *recursive* algorithm to solve the search problem:
 
