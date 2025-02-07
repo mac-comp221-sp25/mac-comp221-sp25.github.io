@@ -14,12 +14,45 @@ You will work towards being able to...
 
 ## Instructions
 
-1. Look back at the pseudocode you've written for Activities 1--2 (check your Moodle submissions)
+1. Consider the following sorting algorithm, called Bubblesort!
 
-2. Work with your group to prove the correctness of your algorithm. Try and apply the following process: Work through the algorithm to convince yourself that it's correct, Identify a loop invariant you can use to prove it's correctness, prove that your pseudocode starts with the invariant being true (the base case of recursion), and finally prove that your pseudocode maintains the loop invariant after every iteration. Note that the above only works for iterative algorithms: proving recursive algorithms correct is even more straightforward! Prove the base case returns the right answer, and show that the recursive step will return the right answer if all of it's recursive calls return the right answer (which should be true by our inductive assumption! In some cases you may need strong induction!).
+```plaintext
+function BubbleSort(Array A):
+    For i <- 1 to N:
+        For j <- 1 to N-1:
+            If (A[j] > A[j+1]:
+                Swap(A[j], A[j+1])
+            EndIf
+        EndFor
+    EndFor 
+```
+This may look similar to the sorting algorithm that you saw 
 
-3. If you're having trouble proving your algorithm is correct, try and see if you can identify a counterexample: maybe there's a case that your algorithm fails on! Try and correct it, if possible! Otherwise, prove *in*correctness by demonstrating that your pseudocode won't correctly sort your counterexample.
+2. Work with your group to prove the correctness of this algorithm. Try and apply the following process: 
 
-4. If you haven't completed any of the previous sorting activities, take this time to complete them. You should have collected (1) pseudocode for an intuitive sorting algorithm, (2) a big-Oh analysis of it's time complexity with a proof, and now (3) a proof of correctness!
+    a. Work through the algorithm on an example to convince yourself that it's correct, 
+    b. Identify a loop invariant you can use to prove it's correctness, 
+    c. Prove that your pseudocode starts with the invariant being true (the base case of recursion)
+    d. Begin proving that your pseudocode maintains the loop invariant after every iteration (the inductive step)
+    e. Much like with InsertionSort, BubbleSort has a nested for-loop structure, so to prove the inductive step, you will likely need to prove something about the behavior of the inner loop. Make a claim about what the inner loop does, and prove that via loop invariant! 
+    f. Use the proof in (e) to finish your inductive step, and thus your proof by induction for your loop invariant for the outer loop.
+    g. Conclude by showing that your loop invariant demonstrates the correctness of BubbleSort. 
 
-6. **For credit**: Submit some artifact of your work to Moodle, including at least an attempt at a proof of correctness
+3. If you have additional time (or on your own to review the material!), consider the following *recursive* algorithm to solve the search problem:
+
+```plaintext
+function LinearSearch(Array A, element e):
+    if (length(A) == 0):
+        return NULL
+    if (A[1] == e):
+        return 1
+    else:
+        return 1 + LinearSearch(A[2...N], e)
+``` 
+
+4. Work with your group to prove the correctness of this algorithm directly using induction. 
+    a. Identify a base case where correctness is easy to prove.
+    b. Determine what you are doing induction over (typically the size of your input), and whether strong or weak induction is needed.
+    c. Make sure you consider all possible cases, using the definition of the search problem you saw in lecture.
+
+4. **For credit**: Submit some artifact of your work to Moodle, including at least an attempt at a proof of correctness

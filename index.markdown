@@ -28,9 +28,9 @@ The schedule below will be updated to keep track of all released course material
 | - | WED 1/29 | Big-O(h) Analysis  | Skiena 2.2--2.4 | |
 | - | FRI 1/31 | Big-O(h) Analysis  | -  | [Activity 2](pages/Activity01), [Time Complexity Notes]({{site.url}}/notes/TimeComplexity.pdf)  |
 | 2 | MON 2/03 | Proofs of Correctness (Loop Invariants) | Skiena 1.3--1.4, 1.6. Skim 2.5  |[Tao on rigor](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)  |
-| - | WED 2/05 | Proofs of Correctness (Recursive Algorithms) |  |  |
-| - | FRI 2/07 | Brute Force Algorithms  | Skiena 3.1--3.2 | |
-| 3 | MON 2/10 | HashMaps, Trees, PQueues & Graphs | Skiena 3.3--3.7, 7.1--7.2  |   |
+| - | WED 2/05 | Proofs of Correctness (Loop Invariants 2) |  |  |
+| - | FRI 2/07 | Proofs of Correctness (Recursion)  | Skiena 3.1--3.2 | [Activity 3](pages/Activity03) |
+| 3 | MON 2/10 | Brute Force Algorithms & DS Review | Skiena 3.3--3.7, 7.1--7.2  |   |
 | - | WED 2/12 | Sorting: Tree/HeapSort | Skiena 4.1--4.3 |  |
 | - | FRI 2/14 | Sorting: MergeSort | Skiena 4.5  |   |
 | 4 | MON 2/17 | Sorting: QuickSort | Skiena 4.6 |  |
