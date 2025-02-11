@@ -55,3 +55,9 @@ Solutions for written assignments should be submitted through Moodle. Solutions 
 [instructions]({{site.url}}/hws/COMP221_HW1.pdf) | [TeX]({{site.url}}/hws/COMP221_HW1.tex)
 
 Notes: A prior version of the assignment had problem 3 state that $c$ should be summed up to $i=n$. It has been corrected to $i=k$. 
+
+#### Homework 2
+**Out:**: 2/11
+**Due:**: 2/17 9pm. 
+
+[instructions]({{site.url}}/hws/COMP221_HW2.pdf) | [Tex]({site.url}}/hws/COMP221_HW2.tex)
