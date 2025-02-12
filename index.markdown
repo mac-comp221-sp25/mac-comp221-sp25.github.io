@@ -31,7 +31,7 @@ The schedule below will be updated to keep track of all released course material
 | - | WED 2/05 | Proofs of Correctness (Loop Invariants 2) |  |  |
 | - | FRI 2/07 | Proofs of Correctness (Recursion)  | Skiena 3.1--3.2 | [Activity 3](pages/Activity03), [Correctness Notes]({{site.url}}/notes/Correctness.pdf) |
 | 3 | MON 2/10 | Brute Force Algorithms & DS Review | Skiena 3.3--3.7, 7.1--7.2  | [Activity 4](pages/Activity06) |
-| - | WED 2/12 | Sorting: Tree/HeapSort | Skiena 4.1--4.3 |  |
+| - | WED 2/12 | Sorting: Tree/HeapSort | Skiena 4.1--4.3 | [Activity 5](pages/Activity07)  |
 | - | FRI 2/14 | Sorting: MergeSort | Skiena 4.5  |   |
 | 4 | MON 2/17 | Sorting: QuickSort | Skiena 4.6 |  |
 | - | WED 2/19 | Exam Review | |  |

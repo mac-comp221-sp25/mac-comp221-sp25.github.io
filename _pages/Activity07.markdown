@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Activity 07: Heap- & TreeSort"
+title:  "Activity: Heap- & TreeSort"
 categories: Activity DataStructures Sorting TreeSort HeapSort
 ---
 
@@ -17,14 +17,13 @@ You will work towards being able to...
 ## Instructions
 Work with your groups on the following problems
 
-
 #### HeapSort Review
-1. If you've completed the reading response, share and discuss your pseudocode for your heap insert and removemin operations. Hopefully you've converged on a $\log n$ time complexity for each, where $n$ is the size of the heap. 
+1. Review, from the reading and COMP128, the operations of a heap, represented as an array. Write out the insert (and bubble up) and extractMinimum (and bubble down) methods in pseudocode and make sure everyone in your group understands the mechanics of this heap implementation. 
 
 2. Manually step through the operations of a HeapSort call with an array of size 5. You may choose any 5 Integers as the entries of the array. Create some artifact of your work (notes, pictures, etc.) that you can submit to Moodle!
 
 #### Thinking about TreeSort's Design 
-1. Write out pseudocode for TreeSort, which works by inserting each element of our array into a Binary Search Tree and filling in a new array by reading out the search tree's in-order traversal.
+1. Write out pseudocode for TreeSort, which works by inserting each element of our array into a Binary Search Tree and filling in a new array by reading out the search tree's in-order traversal. This should notably be more specified than the problem in HW0!
 
 2. Skiena had us think about HeapSort as a variant of SelectionSort. While SelectionSort found the minimum unsorted element in our array with a linear search, the key idea (under this view) of HeapSort was that min-heaps provide a more efficient way of repeatedly finding the minimum remaining (unsorted) element. This is the core principle of Data Structure Design: We take a simple, intuitive algorithm and find a data structure (or sometimes construct a bespoke data structure!) to make some of the clunkier operations in the algorithm faster. This principle can also be used to think about TreeSort! 
 
@@ -34,7 +33,7 @@ Consider the behavior of your TreeSort pseudocode, but for our purposes here, le
 
 A sequence $a_1, \dots a_n$ is *sorted* iff $a_1 \leq a_2 \leq \dots \leq a_n$. A sequence $a_1, \dots, a_n$ is an *in-order traversal* of a binary tree $T$ iff each $a_i$, $1 \leq i \leq n$ uniquely maps to the value of a node in $T$ (something, something, a bijection exists for the math majors) and for any $a_i$ and it's corresponding node $N$, the value of each node in the left subtree of $N$, $a_j$  has index $j < i$ and every element in it's right subtree of $N$, $a_k$, has index $k > i$. A *binary search tree* is a tree $T$ such that for every node $N$ with value $m$ in the tree, every value $l$ in the left subtree of $N$ has $l \leq m$ and for every value $r$ in the right subtree of $N$ has $r \geq m$. Note that this slightly extends Skiena's definition, which assumes our trees do not contain duplicates. 
 
-and write pseudocode for an in-order traversal (recalling it's recursive structure from 128). Try and show: (1) the pseudocode you wrote is correct, by the definition of an in-order traversal I have given you above, (2) that if this is run on a binary search tree, the in-order traversal must be sorted.
+Write pseudocode for an in-order traversal (recalling it's recursive structure from 128). Try and show: (1) the pseudocode you wrote is correct, by the definition of an in-order traversal I have given you above, (2) that if this is run on a binary search tree, the in-order traversal must be sorted. This is another instance of definition shuffling: the desired inequality should eventually fall out of the definitions of BSTs and in-order traversals. 
 
 #### Submission
-Submit an artifact of your work from the HeapSort portion of this assignment, as well as your TreeSort pseudocode. 
+Submit an artifact of your work from the HeapSort portion of this assignment, as well as your TreeSort pseudocode if you've gotten there!
