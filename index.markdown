@@ -60,4 +60,4 @@ Notes: A prior version of the assignment had problem 3 state that $c$ should be 
 **Out:**: 2/11
 **Due:**: 2/17 9pm. 
 
-[instructions]({{site.url}}/hws/COMP221_HW2.pdf) | [Tex]({site.url}}/hws/COMP221_HW2.tex)
+[instructions]({{site.url}}/hws/COMP221_HW2.pdf) | [Tex]({{site.url}}/hws/COMP221_HW2.tex)
