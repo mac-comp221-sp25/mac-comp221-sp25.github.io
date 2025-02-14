@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Activity 03: Sorting 3"
+title:  "Optional Activity: BubbleSort"
 categories: Activity Sorting
 ---
 

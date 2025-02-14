@@ -26,13 +26,13 @@ The schedule below will be updated to keep track of all released course material
 | 0 | FRI 1/24 | Course Overview | NA | [Beginning-of-Semester Survey](https://docs.google.com/forms/d/e/1FAIpQLScDKtLwncty4q2UVQHeikCHnr1FIOFyebtu2vbyejMzGehg_Q/viewform?usp=sharing) |
 | 1 | MON 1/27 | Mathematical Foundations | Skiena 2.1, 2.6--2.8, [Proof-Writing Guide]({{site.url}}/notes/ProofGuide.pdf)  | [Activity 1](pages/Activity01)  |
 | - | WED 1/29 | Big-O(h) Analysis  | Skiena 2.2--2.4 | |
-| - | FRI 1/31 | Big-O(h) Analysis  | -  | [Activity 2](pages/Activity01), [Time Complexity Notes]({{site.url}}/notes/TimeComplexity.pdf)  |
+| - | FRI 1/31 | Big-O(h) Analysis  | -  | [Activity: Sorting](pages/Activity01), [Time Complexity Notes]({{site.url}}/notes/TimeComplexity.pdf)  |
 | 2 | MON 2/03 | Proofs of Correctness (Loop Invariants) | Skiena 1.3--1.4, 1.6. Skim 2.5  |[Tao on rigor](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)  |
 | - | WED 2/05 | Proofs of Correctness (Loop Invariants 2) |  |  |
-| - | FRI 2/07 | Proofs of Correctness (Recursion)  | Skiena 3.1--3.2 | [Activity 3](pages/Activity03), [Correctness Notes]({{site.url}}/notes/Correctness.pdf) |
-| 3 | MON 2/10 | Brute Force Algorithms & DS Review | Skiena 3.3--3.7, 7.1--7.2  | [Activity 4](pages/Activity06) |
-| - | WED 2/12 | Sorting: Tree/HeapSort | Skiena 4.1--4.3 | [Activity 5](pages/Activity07)  |
-| - | FRI 2/14 | Sorting: MergeSort | Skiena 4.5  | i[Activity 8](pages/Activity08)  |
+| - | FRI 2/07 | Proofs of Correctness (Recursion)  | Skiena 3.1--3.2 | [Optional Activity: BubbleSort](pages/Activity03), [Correctness Notes]({{site.url}}/notes/Correctness.pdf) |
+| 3 | MON 2/10 | Brute Force Algorithms & DS Review | Skiena 3.3--3.7, 7.1--7.2  | [Activity: DS Review](pages/Activity06) |
+| - | WED 2/12 | Sorting: Tree/HeapSort | Skiena 4.1--4.3 | [Activity: Heaps & TreeSort](pages/Activity07)  |
+| - | FRI 2/14 | Sorting: MergeSort | Skiena 4.5  | [Activity: Sorting as Pre-Processing](pages/Activity08)  |
 | 4 | MON 2/17 | Sorting: QuickSort | Skiena 4.6 |  
 | - | WED 2/19 | Exam Review | |  |
 | - | FRI 2/21 | **Exam 1** |  | |
