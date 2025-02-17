@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Activity 09: Quicksort and Partitioning"
+title:  "Activity: Quicksort and Partitioning"
 categories: Activity Sorting Quicksort Partitioning
 ---
 
@@ -12,14 +12,16 @@ You will work towards being able to...
 
 2. Implement common algorithms (quicksort)
 
+## Warm-Up
+
+1. As a group, walk through a few examples of the partitioning algorithm you saw in the reading. Construct a few random arrays and step through the code line-by-line to understand how the array is structured and maintained throughout. With an array of fixed size $n$ and fixed elements, which permutation of the array is best? Which is worst?
+
 ## Instructions
 Work with your groups on the following problems:
 
-1. As a group, walk through a few examples of the partitioning algorithm you saw in class/in the reading. Construct a few random arrays and step through the code line-by-line to understand how the array is structured and maintained throughout.
+1. Based on our sketch of the proof of correctness for quicksort in lecture, define correctness for the partition algorithm and construct a proof of correctness for the partition algorithm. Feel free to sketch things out (Find the right loop invariant, etc.) while you're with your group and fill out details on your own.
 
-2. Based on our sketch of the proof of correctness for quicksort in lecture, define correctness for the partition algorithm and construct a proof of correctness for the partition algorithm. Feel free to sketch things out (Find the right loop invariant, etc.) while you're with your group and fill out details on your own.
-
-3. Bonus: This partitioning algorithm isn't the only (or most efficient, or even first) partitioning algorithm for quicksort. However, this version (called the *Lomuto* scheme) is generally regarded as a simpler, easier to implement version that doesn't sacrifice asymptotic time complexity. The other common scheme, the *Hoare* scheme, is faster, but more complex. It's also clever in a very *intro algorithms* sort of way, so it may be worth seeing the trick!
+2. Bonus: This partitioning algorithm isn't the only (or most efficient, or even first) partitioning algorithm for quicksort. However, this version (called the *Lomuto* scheme) is generally regarded as a simpler, easier to implement version that doesn't sacrifice asymptotic time complexity. The other common scheme, the *Hoare* scheme, is faster, but more complex. It's also clever in a very *intro algorithms* sort of way, so it may be worth seeing the trick!
 
 ```plaintext
 partition(A, low, high):

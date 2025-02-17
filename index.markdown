@@ -33,7 +33,7 @@ The schedule below will be updated to keep track of all released course material
 | 3 | MON 2/10 | Brute Force Algorithms & DS Review | Skiena 3.3--3.7, 7.1--7.2  | [Activity: DS Review](pages/Activity06) |
 | - | WED 2/12 | Sorting: Tree/HeapSort | Skiena 4.1--4.3 | [Activity: Heaps & TreeSort](pages/Activity07)  |
 | - | FRI 2/14 | Sorting: MergeSort | Skiena 4.5  | [Activity: Sorting as Pre-Processing](pages/Activity08)  |
-| 4 | MON 2/17 | Sorting: QuickSort | Skiena 4.6 |  
+| 4 | MON 2/17 | Sorting: QuickSort | Skiena 4.6 |  [Activity: Partition and Quicksort](pages/Activity09) |
 | - | WED 2/19 | Exam Review | |  |
 | - | FRI 2/21 | **Exam 1** |  | |
 
