@@ -36,6 +36,21 @@ The schedule below will be updated to keep track of all released course material
 | 4 | MON 2/17 | Sorting: QuickSort | Skiena 4.6 |  [Activity: Partition and Quicksort](pages/Activity09) |
 | - | WED 2/19 | Exam Review | |  |
 | - | FRI 2/21 | **Exam 1** |  | |
+| 5 | MON 2/24 | Recursion & Binary Search Variants | Skiena 5.1--5.3 | |
+| - | WED 2/26 | The Master Theorem | Skiena 5.4 | | 
+| - | FRI 2/28 | **NO CLASS: CAPSTONES** | | |
+| 6 | MON 3/03 | Divide and Conquer Algorithms | 5.5--5.6 | |
+| - | WED 3/05 | Graphs: BFS & DFS Variants | 7.5--7.10 | |
+| - | FRI 3/07 | Greedy Algorithms: Prim's and MSTs | 8.1 | |
+| 7 | MON 3/10 | Kruskal's & Union-Find | | |
+| - | WED 3/12 | Djikstra's and the Shortest Path Problem | 8.3 | |
+| - | FRI 3/14 | Floyd-Warshall & APSP | | |
+| 8 | - | **SPRING BREAK** | | |
+| 9 | MON 3/24 | The Max-Flow Problem & Bipartite Matching | 8.5 | |
+| - | WED 3/26 | Max-Flow = Min-Cut and Ford-Fulkerson | | |
+| - | FRI 3/28 | TBD | | |
+| 10 | MON 3/31 | Exam Review | | |
+| - | WED 4/02 | **Exam 2** | | |
 
 </div> 
 
