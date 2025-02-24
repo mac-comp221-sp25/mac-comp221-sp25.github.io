@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Activity 10: Binary Search Variants"
+title:  "Activity: Binary Search Variants"
 categories: Activity Sorting Design
 ---
 

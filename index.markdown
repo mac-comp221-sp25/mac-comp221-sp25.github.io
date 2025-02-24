@@ -36,7 +36,7 @@ The schedule below will be updated to keep track of all released course material
 | 4 | MON 2/17 | Sorting: QuickSort | Skiena 4.6 |  [Activity: Partition and Quicksort](pages/Activity09) |
 | - | WED 2/19 | Exam Review | |  |
 | - | FRI 2/21 | **Exam 1** |  | |
-| 5 | MON 2/24 | Recursion & Binary Search Variants | Skiena 5.1--5.3 | |
+| 5 | MON 2/24 | Recursion & Binary Search Variants | Skiena 5.1--5.3 | [Activity: Binary Search Variants](pages/Activity10) |
 | - | WED 2/26 | The Master Theorem | Skiena 5.4 | | 
 | - | FRI 2/28 | **NO CLASS: CAPSTONES** | | |
 | 6 | MON 3/03 | Divide and Conquer Algorithms | 5.5--5.6 | |
