@@ -76,3 +76,11 @@ Notes: A prior version of the assignment had problem 3 state that $c$ should be 
 **Due:**: 2/17 9pm. 
 
 [instructions]({{site.url}}/hws/COMP221_HW2.pdf) | [Tex]({{site.url}}/hws/COMP221_HW2.tex)
+
+#### Programming Assignment 1
+**Out:** 2/25
+**Due:** 3/4 11:59pm
+
+**Enrolled Students should accept the Github Classroom Link Posted on Moodle and work in that repository**
+
+[Starter Code + Instructions (for reference)](https://github.com/mac-comp221-sp25/PA1-Sorting)
