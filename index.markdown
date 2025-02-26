@@ -33,11 +33,11 @@ The schedule below will be updated to keep track of all released course material
 | 3 | MON 2/10 | Brute Force Algorithms & DS Review | Skiena 3.3--3.7, 7.1--7.2  | [Activity: DS Review](pages/Activity06) |
 | - | WED 2/12 | Sorting: Tree/HeapSort | Skiena 4.1--4.3 | [Activity: Heaps & TreeSort](pages/Activity07)  |
 | - | FRI 2/14 | Sorting: MergeSort | Skiena 4.5  | [Activity: Sorting as Pre-Processing](pages/Activity08), [MergeSort Notes]({{site.url}}/notes/MergeSort.pdf)  |
-| 4 | MON 2/17 | Sorting: QuickSort | Skiena 4.6 |  [Activity: Partition and Quicksort](pages/Activity09) |
+| 4 | MON 2/17 | Sorting: QuickSort | Skiena 4.6 |  [Optional Activity: Partition and Quicksort](pages/Activity09) |
 | - | WED 2/19 | Exam Review | |  |
 | - | FRI 2/21 | **Exam 1** |  | |
 | 5 | MON 2/24 | Recursion & Binary Search Variants | Skiena 5.1--5.3 | [Activity: Binary Search Variants](pages/Activity10) |
-| - | WED 2/26 | The Master Theorem | Skiena 5.4 | | 
+| - | WED 2/26 | The Master Theorem | Skiena 5.4 |i [Activity: Master Theorem](pages/Activity11) | 
 | - | FRI 2/28 | **NO CLASS: CAPSTONES** | | |
 | 6 | MON 3/03 | Divide and Conquer Algorithms | 5.5--5.6 | |
 | - | WED 3/05 | Graphs: BFS & DFS Variants | 7.5--7.10 | |
