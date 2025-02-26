@@ -32,19 +32,19 @@ The schedule below will be updated to keep track of all released course material
 | - | FRI 2/07 | Proofs of Correctness (Recursion)  | Skiena 3.1--3.2 | [Optional Activity: BubbleSort](pages/Activity03), [Correctness Notes]({{site.url}}/notes/Correctness.pdf) |
 | 3 | MON 2/10 | Brute Force Algorithms & DS Review | Skiena 3.3--3.7, 7.1--7.2  | [Activity: DS Review](pages/Activity06) |
 | - | WED 2/12 | Sorting: Tree/HeapSort | Skiena 4.1--4.3 | [Activity: Heaps & TreeSort](pages/Activity07)  |
-| - | FRI 2/14 | Sorting: MergeSort | Skiena 4.5  | [Activity: Sorting as Pre-Processing](pages/Activity08), [MergeSort Notes]({{site.url}}/notes/MergeSort.pdf)  |
+| - | FRI 2/14 | Sorting: MergeSort | \*Skiena 4.5  | [Activity: Sorting as Pre-Processing](pages/Activity08), [MergeSort Notes]({{site.url}}/notes/MergeSort.pdf)  |
 | 4 | MON 2/17 | Sorting: QuickSort | Skiena 4.6 |  [Optional Activity: Partition and Quicksort](pages/Activity09) |
 | - | WED 2/19 | Exam Review | |  |
 | - | FRI 2/21 | **Exam 1** |  | |
-| 5 | MON 2/24 | Recursion & Binary Search Variants | Skiena 5.1--5.3 | [Activity: Binary Search Variants](pages/Activity10) |
+| 5 | MON 2/24 | Recursion & Binary Search Variants | \*Skiena 5.1--5.3 | [Activity: Binary Search Variants](pages/Activity10) |
 | - | WED 2/26 | The Master Theorem | Skiena 5.4 |i [Activity: Master Theorem](pages/Activity11) | 
 | - | FRI 2/28 | **NO CLASS: CAPSTONES** | | |
-| 6 | MON 3/03 | Divide and Conquer Algorithms | 5.5--5.6 | |
-| - | WED 3/05 | Graphs: BFS & DFS Variants | 7.5--7.10 | |
-| - | FRI 3/07 | Greedy Algorithms: Prim's and MSTs | 8.1 | |
+| 6 | MON 3/03 | Divide and Conquer Algorithms | \*5.5--5.6 | |
+| - | WED 3/05 | Graphs: BFS & DFS Variants | \*7.5--7.10 | |
+| - | FRI 3/07 | Greedy Algorithms: Prim's and MSTs | \*8.1 | |
 | 7 | MON 3/10 | Kruskal's & Union-Find | | |
-| - | WED 3/12 | Djikstra's and the Shortest Path Problem | 8.3 | |
-| - | FRI 3/14 | Floyd-Warshall & APSP | | |
+| - | WED 3/12 | Djikstra's and the Shortest Path Problem | \*8.3.1 | |
+| - | FRI 3/14 | Floyd-Warshall & APSP | \*8.3.2 | |
 | 8 | - | **SPRING BREAK** | | |
 | 9 | MON 3/24 | The Max-Flow Problem & Bipartite Matching | 8.5 | |
 | - | WED 3/26 | Max-Flow = Min-Cut and Ford-Fulkerson | | |
@@ -53,6 +53,7 @@ The schedule below will be updated to keep track of all released course material
 | - | WED 4/02 | **Exam 2** | | |
 
 </div> 
+\*s indicate the presence of an assigned reading problem. Enrolled students should see the Moodle to complete the problem before classtime.
 
 ### Homeworks
 Solutions for written assignments should be submitted through Moodle. Solutions for programming assignments should be submitted through the Github Classroom, which can be joined through Moodle. 
