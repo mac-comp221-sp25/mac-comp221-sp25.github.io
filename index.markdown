@@ -40,7 +40,7 @@ The schedule below will be updated to keep track of all released course material
 | - | WED 2/26 | The Master Theorem | Skiena 5.4 |i [Activity: Master Theorem](pages/Activity11) | 
 | - | FRI 2/28 | **NO CLASS: CAPSTONES** | | |
 | 6 | MON 3/03 | Divide and Conquer Algorithms | \*5.5--5.6 | |
-| - | WED 3/05 | Graphs: BFS & DFS Variants | \*7.5--7.10 | |
+| - | WED 3/05 | Graphs: BFS (& DFS Variants) | \*7.5--7.10 | [BFS  Notes]({{site.url}}/notes/BFS.pdf)  |
 | - | FRI 3/07 | Greedy Algorithms: Prim's and MSTs | \*8.1 | |
 | 7 | MON 3/10 | Kruskal's & Union-Find | | |
 | - | WED 3/12 | Djikstra's and the Shortest Path Problem | \*8.3.1 | |
