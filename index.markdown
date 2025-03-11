@@ -43,7 +43,7 @@ The schedule below will be updated to keep track of all released course material
 | - | WED 3/05 | Graphs: BFS (& DFS Variants) | \*7.5--7.10 | [BFS  Notes]({{site.url}}/notes/BFS.pdf)  |
 | - | FRI 3/07 | Greedy Algorithms: Prim's and MSTs | \*8.1 | |
 | 7 | MON 3/10 | Kruskal's & Union-Find | | |
-| - | WED 3/12 | Djikstra's and the Shortest Path Problem | \*8.3.1 | |
+| - | WED 3/12 | Djikstra's and the Shortest Path Problem | 8.3.1 | |
 | - | FRI 3/14 | Floyd-Warshall & APSP | \*8.3.2 | |
 | 8 | - | **SPRING BREAK** | | |
 | 9 | MON 3/24 | The Max-Flow Problem & Bipartite Matching | 8.5 | |
@@ -76,7 +76,7 @@ Notes: A prior version of the assignment had problem 3 state that $c$ should be 
 **Out:**: 2/11
 **Due:**: 2/17 9pm. 
 
-[instructions]({{site.url}}/hws/COMP221_HW2.pdf) | [Tex]({{site.url}}/hws/COMP221_HW2.tex)
+[instructions]({{site.url}}/hws/COMP221_HW3.pdf) | [Tex]({{site.url}}/hws/COMP221_HW3.tex)
 
 #### Programming Assignment 1
 **Out:** 2/25
@@ -85,3 +85,11 @@ Notes: A prior version of the assignment had problem 3 state that $c$ should be 
 **Enrolled Students should accept the Github Classroom Link Posted on Moodle and work in that repository**
 
 [Starter Code + Instructions (for reference)](https://github.com/mac-comp221-sp25/PA1-Sorting)
+
+#### Homework 3
+**Out:**: 3/11
+**Due:**: 3/25 9pm
+
+Notes: The instructions for these two problems are quite long, but critical. Please read them carefully and ensure you understand what's going on before starting work on the problems themselves. Many subparts are straightforward when understood but daunting when approached with a partial effort. 
+
+[instructions]({{site.url}}/hws/COMP221_HW3.pdf) | [Tex]({{site.url}}/hws/COMP221_HW3.tex)
