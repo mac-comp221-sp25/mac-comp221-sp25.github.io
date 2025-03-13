@@ -43,7 +43,7 @@ The schedule below will be updated to keep track of all released course material
 | - | WED 3/05 | Graphs: BFS (& DFS Variants) | \*7.5--7.10 | [BFS  Notes]({{site.url}}/notes/BFS.pdf)  |
 | - | FRI 3/07 | Greedy Algorithms: Prim's and MSTs | \*8.1 | |
 | 7 | MON 3/10 | Kruskal's & Union-Find | | |
-| - | WED 3/12 | Djikstra's and the Shortest Path Problem | 8.3.1 | |
+| - | WED 3/12 | Djikstra's and the Shortest Path Problem | 8.3.1 | [Dijkstra  Notes]({{site.url}}/notes/Dijkstra.pdf) |
 | - | FRI 3/14 | Floyd-Warshall & APSP | \*8.3.2 | |
 | 8 | - | **SPRING BREAK** | | |
 | 9 | MON 3/24 | The Max-Flow Problem & Bipartite Matching | 8.5 | |
