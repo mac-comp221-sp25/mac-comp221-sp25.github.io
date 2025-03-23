@@ -47,10 +47,26 @@ The schedule below will be updated to keep track of all released course material
 | - | FRI 3/14 | Floyd-Warshall & APSP | \*8.3.2 | |
 | 8 | - | **SPRING BREAK** | | |
 | 9 | MON 3/24 | The Max-Flow Problem & Bipartite Matching | 8.5 | |
-| - | WED 3/26 | Max-Flow = Min-Cut and Ford-Fulkerson | | |
-| - | FRI 3/28 | TBD | | |
+| - | WED 3/26 | Max-Flow = Min-Cut and Ford-Fulkerson | \*8.5.2 | |
+| - | FRI 3/28 | Graph Modeling as a Design Principle | 8.7 | |
 | 10 | MON 3/31 | Exam Review | | |
 | - | WED 4/02 | **Exam 2** | | |
+| - | FRI 4/04 | Dynamic Programming | 10.1 | |
+| 11 | MON 4/07 | Approximate String Match | \*10.2 | |
+| - | WED 4/09 | Subset Sum | \*10.5 | |
+| - | FRI 4/11 | CKY Parsing | \*10.8 | |
+| 12 | MON 4/14 | Combinatorial Methods 1 | 9.1--9.3, 9.6--9.7 | |
+| - | WED 4/16 | Combinatorial Methods 2 | | |
+| - | FRI 4/18 | Intro to Complexity Theory | 11.1 | |
+| 13 | MON 4/21 | Reduction as a Proof Technique | 11.2--11.3 | |
+| - | WED 4/23 | Reductions and SAT | \*11.4--11.6 | |
+| - | FRI 4/25 | P vs. NP | 11.9 | |
+| 14 | MON 4/28 | Approximate Methods for Hard Problems | 12.1--12.3, 12.5 | |
+| - | WED 4/30 | TBD | | |
+| - | FRI 5/02 | TBD  | | |
+| 15 | MON 5/04 | **Exam 3** | | |
+| FINALS | FRI 5/09 \\ 1:30--3:30pm | Section 01 Final | | |
+| FINALS | MON 5/10 \\ 1:30--3:30pm | Section 02 Final | | |
 
 </div> 
 \*s indicate the presence of an assigned reading problem. Enrolled students should see the Moodle to complete the problem before classtime.
@@ -76,7 +92,7 @@ Notes: A prior version of the assignment had problem 3 state that $c$ should be 
 **Out:**: 2/11
 **Due:**: 2/17 9pm. 
 
-[instructions]({{site.url}}/hws/COMP221_HW3.pdf) | [Tex]({{site.url}}/hws/COMP221_HW3.tex)
+[instructions]({{site.url}}/hws/COMP221_HW2.pdf) | [Tex]({{site.url}}/hws/COMP221_HW2.tex)
 
 #### Programming Assignment 1
 **Out:** 2/25
