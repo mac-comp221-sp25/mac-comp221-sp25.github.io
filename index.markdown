@@ -47,7 +47,7 @@ The schedule below will be updated to keep track of all released course material
 | - | FRI 3/14 | Floyd-Warshall & APSP | \*8.3.2 | |
 | 8 | - | **SPRING BREAK** | | |
 | 9 | MON 3/24 | The Max-Flow Problem & Bipartite Matching | 8.5 | |
-| - | WED 3/26 | Max-Flow = Min-Cut and Ford-Fulkerson | \*8.5.2 | |
+| - | WED 3/26 | Max-Flow = Min-Cut and Ford-Fulkerson | \*8.5.2 | [Ford-Fulkerson Notes]({{site.url}}/notes/NetworkFlow.pdf) |
 | - | FRI 3/28 | Graph Modeling as a Design Principle | 8.7 | |
 | 10 | MON 3/31 | Exam Review | | |
 | - | WED 4/02 | **Exam 2** | | |
