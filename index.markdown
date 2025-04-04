@@ -51,7 +51,7 @@ The schedule below will be updated to keep track of all released course material
 | - | FRI 3/28 | Graph Modeling as a Design Principle | 8.7 | [Graph Application Activity](pages/GraphApplications) |
 | 10 | MON 3/31 | Exam Review | | |
 | - | WED 4/02 | **Exam 2** | | |
-| - | FRI 4/04 | Dynamic Programming | 10.1 | [Dynamic Programming Activity 1]({{site.url}}/Activity18) |
+| - | FRI 4/04 | Dynamic Programming | 10.1 | [Dynamic Programming Activity 1]({{site.url}}/pages/Activity18) |
 | 11 | MON 4/07 | Approximate String Match | \*10.2 | |
 | - | WED 4/09 | Subset Sum | \*10.5 | |
 | - | FRI 4/11 | CKY Parsing | \*10.8 | |
