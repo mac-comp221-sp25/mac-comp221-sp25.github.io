@@ -94,7 +94,7 @@ Notes: A prior version of the assignment had problem 3 state that $c$ should be 
 
 [instructions]({{site.url}}/hws/COMP221_HW2.pdf) | [Tex]({{site.url}}/hws/COMP221_HW2.tex)
 
-#### Programming Assignment 1
+#### Programming Assignment 1 - Sorting
 **Out:** 2/25
 **Due:** 3/4 11:59pm
 
@@ -109,3 +109,13 @@ Notes: A prior version of the assignment had problem 3 state that $c$ should be 
 Notes: The instructions for these two problems are quite long, but critical. Please read them carefully and ensure you understand what's going on before starting work on the problems themselves. Many subparts are straightforward when understood but daunting when approached with a partial effort. 
 
 [instructions]({{site.url}}/hws/COMP221_HW3.pdf) | [Tex]({{site.url}}/hws/COMP221_HW3.tex)
+
+#### Programming Assignment 2 - MSTs and Union-Find
+**Out:** 4/5
+**Due:** 4/14 11:59pm
+
+**Enrolled Students should accept the Github Classroom Link Posted on Moodle and work in that repository**
+
+[Starter Code + Instructions (for reference)](https://github.com/mac-comp221-sp25/PA2-MSTs)
+
+
