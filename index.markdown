@@ -65,8 +65,8 @@ The schedule below will be updated to keep track of all released course material
 | - | WED 4/30 | TBD | | |
 | - | FRI 5/02 | TBD  | | |
 | 15 | MON 5/05 | **Exam 3** | | |
-| FINALS | FRI 5/09 \\ 1:30--3:30pm | Section 01 Final | | |
-| FINALS | SAT 5/10 \\ 1:30--3:30pm | Section 02 Final | | |
+| FINALS | FRI 5/09 <br \> 1:30--3:30pm | Section 01 Final | | |
+| FINALS | SAT 5/10 <br \> 1:30--3:30pm | Section 02 Final | | |
 
 </div> 
 \*s indicate the presence of an assigned reading problem. Enrolled students should see the Moodle to complete the problem before classtime.
