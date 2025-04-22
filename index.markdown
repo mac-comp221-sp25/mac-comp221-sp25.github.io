@@ -118,6 +118,12 @@ Notes: The instructions for these two problems are quite long, but critical. Ple
 
 [Starter Code + Instructions (for reference)](https://github.com/mac-comp221-sp25/PA2-MSTs)
 
+#### Homework 3
+**Out:**: 4/21
+**Due:**: 4/30 9pm
+
+[instructions]({{site.url}}/hws/COMP221_HW4.pdf) | [Tex]({{site.url}}/hws/COMP221_HW4.tex)
+
 ### Final Report and Presentation
 **Instructions Out:** 4/7 \\
 **Topic Proposal:** 4/14 \\
