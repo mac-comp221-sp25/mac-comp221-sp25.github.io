@@ -118,7 +118,7 @@ Notes: The instructions for these two problems are quite long, but critical. Ple
 
 [Starter Code + Instructions (for reference)](https://github.com/mac-comp221-sp25/PA2-MSTs)
 
-#### Homework 3
+#### Homework 4
 **Out:**: 4/21
 **Due:**: 4/30 9pm
 
