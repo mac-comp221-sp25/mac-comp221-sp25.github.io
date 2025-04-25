@@ -62,8 +62,8 @@ The schedule below will be updated to keep track of all released course material
 | - | WED 4/23 | Reductions and SAT | \*11.4--11.6 | |
 | - | FRI 4/25 | P vs. NP | 11.9 | |
 | 14 | MON 4/28 | Approximate Methods for Hard Problems | 12.1--12.3, 12.5 | |
-| - | WED 4/30 | TBD | | |
-| - | FRI 5/02 | TBD  | | |
+| - | WED 4/30 | Complexity Review | | |
+| - | FRI 5/02 | Report Peer Review   | | |
 | 15 | MON 5/05 | **Exam 3** | | |
 | FINALS | FRI 5/09 <br> 1:30--3:30pm | Section 01 Final | | |
 | FINALS | SAT 5/10 <br> 1:30--3:30pm | Section 02 Final | | |
@@ -92,7 +92,7 @@ Notes: A prior version of the assignment had problem 3 state that $c$ should be 
 **Out:**: 2/11
 **Due:**: 2/17 9pm. 
 
-[instructions]({{site.url}}/hws/COMP221_HW2.pdf) | [Tex]({{site.url}}/hws/COMP221_HW2.tex)
+[instructions]({{site.url}}/hws/COMP221_HW2.pdf) | [TeX]({{site.url}}/hws/COMP221_HW2.tex)
 
 #### Programming Assignment 1 - Sorting
 **Out:** 2/25
@@ -108,7 +108,7 @@ Notes: A prior version of the assignment had problem 3 state that $c$ should be 
 
 Notes: The instructions for these two problems are quite long, but critical. Please read them carefully and ensure you understand what's going on before starting work on the problems themselves. Many subparts are straightforward when understood but daunting when approached with a partial effort. 
 
-[instructions]({{site.url}}/hws/COMP221_HW3.pdf) | [Tex]({{site.url}}/hws/COMP221_HW3.tex)
+[instructions]({{site.url}}/hws/COMP221_HW3.pdf) | [TeX]({{site.url}}/hws/COMP221_HW3.tex)
 
 #### Programming Assignment 2 - MSTs and Union-Find
 **Out:** 4/5
@@ -122,13 +122,15 @@ Notes: The instructions for these two problems are quite long, but critical. Ple
 **Out:**: 4/21
 **Due:**: 4/30 9pm
 
-[instructions]({{site.url}}/hws/COMP221_HW4.pdf) | [Tex]({{site.url}}/hws/COMP221_HW4.tex)
+Notes: A prior version of this assignment was vague about the greedy strategy for Prob. 1. It has been updated to reflect that I don't mean this to be unncessarily vague --- the greedy strategy simply repeatedly adds the largest valued coin that does not overshoot $k$ to our multiset!
+
+[instructions]({{site.url}}/hws/COMP221_HW4.pdf) | [TeX]({{site.url}}/hws/COMP221_HW4.tex)
 
 ### Final Report and Presentation
 **Instructions Out:** 4/7 \\
 **Topic Proposal:** 4/14 \\
-**In-class Peer-Review:**: 4/30 \\
+**In-class Peer-Review:**: 5/02 \\
 **Final Report Due:** 11:59PM before Final Exam Slot \\
 **Final Presentation:** Final Exam Slot
 
-[Instructions]({{site.url}}/hws/COMP221_FinalReportInstructions.pdf)
+[Instructions]({{site.url}}/hws/COMP221_FinalReportInstructions.pdf) | [Sample Report]({{site.url}}/hws/COMP221_SampleFinalReport.pdf) | [Sample Report TeX]({{site.url}}/hws/COMP221_SampleFinalReport.tex) | 
