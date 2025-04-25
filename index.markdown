@@ -133,4 +133,4 @@ Notes: A prior version of this assignment was vague about the greedy strategy fo
 **Final Report Due:** 11:59PM before Final Exam Slot \\
 **Final Presentation:** Final Exam Slot
 
-[Instructions]({{site.url}}/hws/COMP221_FinalReportInstructions.pdf) | [Sample Report]({{site.url}}/hws/COMP221_SampleFinalReport.pdf) | [Sample Report TeX]({{site.url}}/hws/COMP221_SampleFinalReport.tex) | 
+[Instructions]({{site.url}}/hws/COMP221_FinalReportInstructions.pdf) | [Sample Report]({{site.url}}/hws/COMP221_FinalReportSample.pdf) | [Sample Report TeX]({{site.url}}/hws/COMP221_FinalReportSample.tex) | 
