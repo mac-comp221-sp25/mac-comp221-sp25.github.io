@@ -134,3 +134,5 @@ Notes: A prior version of this assignment was vague about the greedy strategy fo
 **Final Presentation:** Final Exam Slot
 
 [Instructions]({{site.url}}/hws/COMP221_FinalReportInstructions.pdf) | [Sample Report]({{site.url}}/hws/COMP221_FinalReportSample.pdf) | [Sample Report TeX]({{site.url}}/hws/COMP221_FinalReportSample.tex) | 
+
+Note: In the interest of giving you (and me, in the sample report!) a bit more space, the page requirement now allows for 5-page submissions.
