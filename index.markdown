@@ -60,7 +60,7 @@ The schedule below will be updated to keep track of all released course material
 | - | FRI 4/18 | Intro to Complexity Theory | 11.1 | |
 | 13 | MON 4/21 | Reduction as a Proof Technique | 11.2--11.3 | |
 | - | WED 4/23 | Reductions and SAT | \*11.4--11.6 | |
-| - | FRI 4/25 | P vs. NP | 11.9 | |
+| - | FRI 4/25 | P vs. NP | 11.9 | [Complexity Theory Notes]({{site.url}}/notes/ComplexityTheoryAndReductions.pdf) |
 | 14 | MON 4/28 | Approximate Methods for Hard Problems | 12.1--12.3, 12.5 | |
 | - | WED 4/30 | Complexity Review | | |
 | - | FRI 5/02 | Report Peer Review   | | |
